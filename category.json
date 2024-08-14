@@ -1,82 +1,64 @@
-[
-  {
-    "image": "North_Indian_4.jpeg",
-    "path": "north-indian"
-  },
-  {
-    "image": "Pizza.jpeg",
-    "path": "pizza"
-  },
-  {
-    "image": "Noodles.jpeg",
-    "path": "noodles"
-  },
-  {
-    "image": "Pasta.jpeg",
-    "path": "pasta"
-  },
-  {
-    "image": "Paratha.jpeg",
-    "path": "paratha"
-  },
-  {
-    "image": "Biryani_2.jpeg",
-    "path": "biryani"
-  },
-  {
-    "image": "Burger.jpeg",
-    "path": "burger"
-  },
-  {
-    "image": "Cakes.jpeg",
-    "path": "cakes"
-  },
-  {
-    "image": "Chinese.jpeg",
-    "path": "chinese"
-  },
-  {
-    "image": "Chole_Bature.jpeg",
-    "path": "chole-bature"
-  },
-  {
-    "image": "Dosa.jpeg",
-    "path": "dost"
-  },
-  {
-    "image": "Gulab_Jamun.jpeg",
-    "path": "gulab-jamun"
-  },
-  {
-    "image": "Ice_Creams.jpeg",
-    "path": "ice-creams"
-  },
-  {
-    "image": "Idli.jpeg",
-    "path": "idli"
-  },
-  {
-    "image": "Khichdi.jpeg",
-    "path": "khichdi"
-  },
-  {
-    "image": "Poori.jpeg",
-    "path": "poori"
-  },
-  {
-    "image": "Pure_Veg.jpeg",
-    "path": "pure-veg"
-  },
-  {
-    "image": "Rolls.jpeg",
-    "path": "rolls"
-  },
-  {
-    "image": "Salad.jpeg",
-    "path": "salad"
-  },
-  {
-    "image": "South_Indian_4.jpeg",
-    "path": "south-indian"
-  }
-]
+{
+  "category": [
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+      "path": "Rolls"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
+      "path": "pizza"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+      "path": "noodles"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
+      "path": "Momo"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
+      "path": "burger"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
+      "path": "biryani"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_coffee.png",
+      "path": "cofee"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
+      "path": "pasty"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Chinese.png",
+      "path": "chinese"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pav%20Bhaji.png",
+      "path": "pav bhaji"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/3f2c40d3-96c7-44ce-8b35-aef6ea746cdc_lassi.png",
+      "path": "lassi"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure%20Veg.png",
+      "path": "veg"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+      "path": "pasta"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
+      "path": "tea"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Desserts.png",
+      "path": "dessert"
+    }
+  ]
+}
