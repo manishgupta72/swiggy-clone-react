@@ -23,6 +23,7 @@ const Header = () => {
     {
       icon: <CiDiscount1 />,
       name: "Offers",
+      sup: "New",
     },
     {
       icon: <IoHelpBuoyOutline />,
@@ -35,6 +36,7 @@ const Header = () => {
     {
       icon: <FiShoppingCart />,
       name: "Cart",
+      sup: "(2)",
     },
   ];
 
@@ -57,7 +59,7 @@ const Header = () => {
         ></div>
       </div>
       <header className="p-2 shadow-xl text-[#686b78]">
-        <div className="max-w-[1200px] mx-auto border border-red-500 flex items-center">
+        <div className="max-w-[1200px] mx-auto flex items-center">
           <div className="w-[100px] ">
             <img src="images/logo.png" className="w-full" alt="" />
           </div>
@@ -81,6 +83,7 @@ const Header = () => {
                 >
                   {link.icon}
                   {link.name}
+                  <sup>{link.sup}</sup>
                 </li>
               );
             })}
