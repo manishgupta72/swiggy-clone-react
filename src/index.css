@@ -1,7 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap");
 
+body {
+  font-family: "Roboto";
+}
 .black-overlay {
   background: rgb(0, 0, 0, 0.7);
 }
@@ -11,4 +15,9 @@
     rgba(255, 255, 255, 0) 50%,
     rgba(0, 0, 0, 1)
   );
+}
+.cityName {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
