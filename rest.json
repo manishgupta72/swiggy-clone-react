@@ -1,0 +1,114 @@
+{
+  "resturant": [
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tqbgerwekrt6juxjahwr",
+      "offer": "Items at ₹179",
+      "title": "Avon Fast Food",
+      "rating": 4.2,
+      "minTime": 30,
+      "maxTime": 40,
+      "name": "Pizzas",
+      "place": "Maunath Bhanjan"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kfboyjnxercmxqvhlqpn",
+      "offer": "₹50 OFF ABOVE ₹199",
+      "title": "VIP Pizza and Dosa",
+      "rating": 4.5,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "Sweets,South Indian",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/x30mg0nnzow91q5enhq8",
+      "offer": "₹85 OFF ABOVE ₹149",
+      "title": "Hot & Cool",
+      "rating": 4.3,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "North India, Thalis",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/n4pdtz7gt8imwryge3w1",
+      "offer": "₹70 OFF ABOVE ₹149",
+      "title": "Zaika Restaurant",
+      "rating": 4.5,
+      "minTime": 25,
+      "maxTime": 25,
+      "name": "Desserts,Ice Cream",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ibam4xlsqqzkjogbxi6s",
+      "offer": "₹1-5 OFF ABOVE ₹179",
+      "title": "Chill Yaar",
+      "rating": 4.4,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "Snacks",
+      "place": "Shaikh Damu Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wjc3qgjmnrorfogylcbh",
+      "offer": "₹100 OFF ABOVE ₹499",
+      "title": "Cake Parlour",
+      "rating": 4.7,
+      "minTime": 25,
+      "maxTime": 30,
+      "name": "Bakery",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/byqzlb1gm6yi4xemz5h8",
+      "offer": "Items at ₹109",
+      "title": "Dosh Center",
+      "rating": 4.0,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "South Indian",
+      "place": "Chopsani Housing Board"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/gbgu9j13dfltdmnrac6w",
+      "offer": "₹125 OFF ABOVE ₹349",
+      "title": "Rajwati Chatpati",
+      "rating": 4.3,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "South Indian, Chaat, Bakery",
+      "place": "Sahadatpura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/uwytv1tusqifqoue7baf",
+      "offer": "₹70 OFF ABOVE ₹249",
+      "title": "Rajwanti Sweets",
+      "rating": 4.4,
+      "minTime": 30,
+      "maxTime": 35,
+      "name": "Sweets",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wjc3qgjmnrorfogylcbh",
+      "offer": "₹100 OFF ABOVE ₹499",
+      "title": "Cake Parlour",
+      "rating": 4.7,
+      "minTime": 25,
+      "maxTime": 30,
+      "name": "Bakery",
+      "place": "Raghunath Pura"
+    },
+    {
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/byqzlb1gm6yi4xemz5h8",
+      "offer": "Items at ₹109",
+      "title": "Dosh Center",
+      "rating": 4.0,
+      "minTime": 35,
+      "maxTime": 40,
+      "name": "South Indian",
+      "place": "Chopsani Housing Board"
+    }
+  ]
+}

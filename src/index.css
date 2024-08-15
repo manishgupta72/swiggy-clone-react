@@ -5,3 +5,10 @@
 .black-overlay {
   background: rgb(0, 0, 0, 0.7);
 }
+.image-overlay {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0) 50%,
+    rgba(0, 0, 0, 1)
+  );
+}

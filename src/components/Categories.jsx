@@ -7,7 +7,7 @@ const Categories = () => {
   const [slide, setSlide] = useState(0);
 
   const nextSlide = () => {
-    if (categories.length - 5 == slide) return false;
+    if (categories.length - 5 === slide) return false;
     setSlide(slide + 2);
   };
   const prevSlide = () => {
@@ -24,9 +24,9 @@ const Categories = () => {
   }, []);
 
   return (
-    <div className="w-[1200px] mx-auto">
+    <div className="md:w-[1200px] mx-auto cursor-pointer ">
       <div className="flex justify-between items-center my-3 ">
-        <div className="text-[20px] font-bold">What's on your mind?</div>
+        <div className="text-[20px] font-bold ml-3">What's on your mind?</div>
         <div className="flex">
           <div
             onClick={prevSlide}
@@ -48,9 +48,13 @@ const Categories = () => {
             <div
               style={{ transform: `translateX(-${slide * 100}%)` }}
               key={index}
-              className="w-[200px] shrink-0 duration-500"
+              className="group  w-[200px] shrink-0 duration-500"
             >
-              <img src={cat.image} alt="" />
+              <img
+                className="group-hover:scale-110 duration-300"
+                src={cat.image}
+                alt=""
+              />
             </div>
           );
         })}

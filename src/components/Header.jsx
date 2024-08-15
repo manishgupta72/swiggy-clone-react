@@ -58,16 +58,16 @@ const Header = () => {
           }}
         ></div>
       </div>
-      <header className="p-2 shadow-xl text-[#686b78]">
+      <header className="p-2 shadow-xl text-[#686b78] sticky top-0 bg-white z-[9990]">
         <div className="max-w-[1200px] mx-auto flex items-center">
-          <div className="w-[100px] ">
+          <div className="w-[100px] md:block hidden ">
             <img src="images/logo.png" className="w-full" alt="" />
           </div>
           <div className="">
-            <span className="border-b-[3px] text-[black] border-[black] font-bold mx-2">
+            <span className="md:border-b-[3px] text-[black] md:border-[black] font-bold mx-2 md:inline md:align-center flex md:p-0 p-1">
               Other
             </span>
-            Mau, Uttar Pradesh 275101, India{" "}
+            <span className="inline">Mau, Uttar Pradesh 275101, India</span>
             <RxCaretDown
               fontSize={"25px"}
               className="inline text-[#fc8019] cursor-pointer"
@@ -79,7 +79,7 @@ const Header = () => {
               return (
                 <li
                   key={index}
-                  className="flex items-center hover:text-[#da5a30] gap-2"
+                  className="hidden md:flex items-center cursor-pointer hover:text-[#da5a30] gap-2"
                 >
                   {link.icon}
                   {link.name}
