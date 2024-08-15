@@ -42,7 +42,7 @@ const OnlineDelivery = () => {
     { name: "Less than Rs.300", icon: "" },
   ];
   return (
-    <div className="md:w-[1200px] mx-auto " ref={componenRef}>
+    <div className="max-w-[1200px] mx-auto " ref={componenRef}>
       <div className="flex justify-between items-center my-3 ">
         <div className="text-[20px] md:font-extrabold mx-3  md:mx-10 p-1 font-[700]">
           Restaurants with online food delivery in Maunath Bhanjan

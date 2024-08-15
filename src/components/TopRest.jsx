@@ -23,7 +23,7 @@ const TopRest = () => {
     fetchResturant();
   }, []);
   return (
-    <div className="md:w-[1200px] mx-auto">
+    <div className="max-w-[1200px] mx-auto">
       <div className="flex justify-between items-center my-3 ">
         <div className="text-[20px] md:font-extrabold mx-3  md:mx-10 p-1 font-[700]">
           Top restaurant chains in Maunath Bhanjan

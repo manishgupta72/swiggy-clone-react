@@ -47,6 +47,7 @@ const Header = () => {
         style={{
           opacity: toggle ? 1 : 0,
           visibility: toggle ? "visible" : "hidden",
+          zIndex: 99999999,
         }}
         onClick={hideSideMenu}
       >

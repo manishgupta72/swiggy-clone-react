@@ -24,7 +24,7 @@ const Categories = () => {
   }, []);
 
   return (
-    <div className="md:w-[1200px] mx-auto cursor-pointer ">
+    <div className="max-w-[1200px] mx-auto cursor-pointer ">
       <div className="flex justify-between items-center my-3 ">
         <div className="text-[20px] font-bold ml-3">What's on your mind?</div>
         <div className="flex">
